@@ -1,5 +1,5 @@
 {
-    "name": "codek365/zalo-php-sdk",
+    "name": "codek365/zalo-php-sdk-fix-bugs",
     "description": "sdk for zalo developers",
     "keywords": ["zalosdk", "composer", "zalo", "sdk"],
     "license": "Zalo Platform",
